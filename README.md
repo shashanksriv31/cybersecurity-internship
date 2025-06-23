@@ -1,8 +1,7 @@
 # cybersecurity-internship
 task 1 of the cybersecurity internship
-Here's an example of a GitHub README.md file written in a more casual and fresher tone:
 
-# Network Reconnaissance Project 
+# Network Reconnaissance Assignment
 
 ## What's this project about? 
 
@@ -34,6 +33,11 @@ nmap -sS 192.168.1.0/24
 
 And here's how to save the results to a file:
 nmap -sS 192.168.1.0/24 -oN scan_results.txt
+q
+![linux-nmap](https://github.com/user-attachments/assets/be1a9876-364b-497d-848e-88590f0f1491)
+
+![linux-nmap1](https://github.com/user-attachments/assets/9a0a9d24-804c-4263-af06-1b903c6f99dd)
+
 
 
 
